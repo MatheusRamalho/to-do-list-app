@@ -112,6 +112,7 @@ export const Home = () => {
                                     subMessage="Crie tarefas e organize seus itens a fazer"
                                 />
                             )}
+                            contentContainerStyle={{ paddingBottom: 500 }}
                         />
                     </View>
                 </View>
